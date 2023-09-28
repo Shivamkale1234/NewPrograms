@@ -1,16 +1,16 @@
-package StarPaternEx1to9;
+package StarPaternExs;
 
-public class StarPatternEx98 {
+public class StarPatternEx36 {
 
 	public static void main(String[] args) {
 		
-		int i,j,n=5;
+        int i,j,n=5;
 		
 		for(i=1; i<=n; i++)
 		{
-			for(j=1; j<=n; j++)
+			for(j=1; j<=i; j++)
 			{
-				if(i==j||i+j==n+1)
+				if(i==n||j==1||j==i)
 				{
 					System.out.print("* ");
 				}
@@ -22,9 +22,7 @@ public class StarPatternEx98 {
 			}
 			System.out.println();
 		}
-			
-			
-				
-		}
+		
+	}
 
 }

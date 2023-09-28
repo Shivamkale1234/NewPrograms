@@ -1,6 +1,6 @@
-package StarPaternEx1to9;
+package StarPaternExs;
 
-public class StarPatternEx91 {
+public class StarPatternEx14 {
 
 	public static void main(String[] args) {
 		
@@ -14,7 +14,7 @@ public class StarPatternEx91 {
         	 }
         	 for(k=1; k<=i; k++)
         	 {
-        		 System.out.print(" *");
+        		 System.out.print("*");
         	 }
         	 System.out.println();
     

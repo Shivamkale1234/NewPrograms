@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="NewPrograms/JavaProjectPrograms"/>
+	<classpathentry kind="src" path="NewPrograms/LogicalPrograms"/>
+	<classpathentry kind="src" path="NewPrograms/src"/>
+	<classpathentry kind="src" path="NewPrograms/StarPaterns"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

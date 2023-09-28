@@ -1,6 +1,6 @@
-package StarPaternEx1to9;
+package StarPaternExs;
 
-public class StarPatternEx995 {
+public class StarPatternEx33 {
 
 	public static void main(String[] args) {
 		
